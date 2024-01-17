@@ -38,11 +38,13 @@ img{
     max-width: 600px;
     margin: 100px auto;
     background-color: white;
+    text-align: center;
+    
 
     
 }
 .inputSection{
-    margin-top: 20px;
+    margin-top: 50px;
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -74,9 +76,8 @@ button {
     cursor: pointer;
     
 }
-#countButton{
-    margin-left: 235px;
-}
+
+
 
 button:hover {
     background-color: #4f6f52;
