@@ -22,26 +22,34 @@ header p{
     margin-top: 5px;
     font-size: x-large;
     color: rgb(14, 4, 41) ;
+    margin-bottom: 20px;
     
 }
 
 img{
+    display: block;
     align-items: center;
     justify-items: center;
-    margin-left: 600px;
-    margin-bottom: 30px;
+    margin: 0 auto;
+    
 }
 
 .container{
+    max-width: 600px;
+    margin: 100px auto;
     background-color: white;
+
+    
 }
 .inputSection{
+    margin-top: 20px;
     display: flex;
     flex-direction: column;
     text-align: center;
     align-content: center;
-    margin-left: 40%;
-    margin-right: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    
 }
 
 #squareSide {
@@ -64,9 +72,10 @@ button {
     border-radius: 8px;
     padding: 8px 15px;
     cursor: pointer;
+    
 }
 #countButton{
-    margin-left: 600px;
+    margin-left: 235px;
 }
 
 button:hover {
