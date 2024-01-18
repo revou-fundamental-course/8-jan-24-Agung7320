@@ -6,20 +6,22 @@ body{
 header{
     text-align: center;
     padding: 10px 0;
+    
 }
 
 header h1{
     color: #B4D4FF;
     background-color: blue;
+    border-radius: 40px;
 }
 
 header h4{
-    margin-top: 30px;
+    margin-top: 10px;
     color: red;
 }
 
 header p{
-    margin-top: 5px;
+    margin-top: 1px;
     font-size: x-large;
     color: rgb(14, 4, 41) ;
     margin-bottom: 20px;
@@ -36,7 +38,7 @@ img{
 
 .container{
     max-width: 600px;
-    margin: 60px auto;
+    margin: 25px auto;
     background-color: white;
     text-align: center;
     
@@ -51,7 +53,7 @@ img{
     align-content: center;
     margin-left: 30%;
     margin-right: 30%;
-    
+    font-weight: bolder;   
 }
 
 #squareSide {
