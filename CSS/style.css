@@ -43,11 +43,10 @@ img{
     background-color: white;
     text-align: center;
     
-
-    
 }
+
 .inputSection{
-    margin-top: 50px;
+    margin-top: 35px;
     display: flex;
     flex-direction: column;
     text-align: center;
