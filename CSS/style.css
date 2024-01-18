@@ -13,6 +13,7 @@ header h1{
     color: #B4D4FF;
     background-color: blue;
     border-radius: 40px;
+    font-size: xx-large;
 }
 
 header h4{
@@ -53,7 +54,8 @@ img{
     align-content: center;
     margin-left: 30%;
     margin-right: 30%;
-    font-weight: bolder;   
+    font-weight: bolder;  
+    font-size: small;
 }
 
 #squareSide {

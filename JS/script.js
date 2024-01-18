@@ -7,8 +7,8 @@ function calculate() {
     var area = sideLength * sideLength;
     var perimeter = 4 * sideLength;
 
-    document.getElementById('hasilluas').innerText = isNaN(area) ? "Invalid Input" : area.toFixed();
-    document.getElementById('hasilkeliling').innerText = isNaN(perimeter) ? "Invalid Input" : perimeter.toFixed();
+    document.getElementById('hasilluas').innerText = isNaN(area) ? "Invalid Input" : area;
+    document.getElementById('hasilkeliling').innerText = isNaN(perimeter) ? "Invalid Input" : perimeter;
 }
 
 function resetForm() {
