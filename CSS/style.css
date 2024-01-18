@@ -36,7 +36,7 @@ img{
 
 .container{
     max-width: 600px;
-    margin: 100px auto;
+    margin: 60px auto;
     background-color: white;
     text-align: center;
     
@@ -61,6 +61,7 @@ img{
     border-radius: 8px;
     border:solid #739072;
     padding: 10px;
+    text-align: center;
 }
 
 #squareSide:focus {
